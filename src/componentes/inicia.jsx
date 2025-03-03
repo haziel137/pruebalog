@@ -23,7 +23,7 @@ const LoginScreen = () => {
 
   return (
     <ImageBackground 
-      source={require("../../assets/favicon.png")} 
+      source={require("../../assets/fondo.png")} 
       style={styles.background}
     >
       <View style={styles.overlay}>
